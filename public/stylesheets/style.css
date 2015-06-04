@@ -1,0 +1,32 @@
+body {
+  margin-bottom: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  
+}
+html, body{
+	color: #867DB0;
+}
+
+a {
+  color: #00B7FF;
+}
+header, footer{
+	background-color: #11073B;
+	padding: 15px;
+}
+h1, a{
+	color: #867DB0;
+}
+table{
+	background-color: white;
+	color: #2b2b2b;
+}
+.container, body{
+	padding: 0px;
+
+}
+.navbar-custom{
+		background-color: #11073B;
+	padding: 15px;
+	margin-top: 50px;
+}
