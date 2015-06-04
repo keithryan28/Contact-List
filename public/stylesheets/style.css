@@ -21,6 +21,10 @@ table{
 	background-color: white;
 	color: #2b2b2b;
 }
+thead{
+	background-color: #11073B;
+	color: #867DB0;
+}
 .container, body{
 	padding: 0px;
 
